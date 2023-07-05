@@ -6,5 +6,12 @@ If you have a mac, https://stackoverflow.com/questions/62129569/how-to-run-javaf
 
 Make sure you compile first, then choose StartupBrowser.class inside the bin folder. 
 
+Features: 
+- home button (set to langara's website)
+- back button
+- forward button
+- refresh button
+- bottom footer with signature and real time and date display
+
 If you are successful it should look something like this: 
 ![Screenshot 2023-07-04 at 5 51 03 PM](https://github.com/cstim240/Java_StartupBrowser/assets/75660907/bb05cbe4-b46a-48b4-b3dc-994c8ada225d)
